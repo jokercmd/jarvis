@@ -665,7 +665,6 @@ patterns = {
 "^[!/#](adminlist)$",
 "^[!/#](adminprom) (.*)$", 
 "^[!/#](admindem) (.*)$",
-"^[!/#](leave)$",
 "^[!/#](autoleave) (.*)$", 
 "^[!/#](beyond)$",
 "^[!/#](creategroup) (.*)$",
