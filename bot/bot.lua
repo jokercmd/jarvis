@@ -71,7 +71,8 @@ function create_config( )
     "plugins",
     "tools",
     "myid",
-    "write"			
+    "write",
+    "addkick"			
  },
     sudo_users = {270325030},
     admins = {},
