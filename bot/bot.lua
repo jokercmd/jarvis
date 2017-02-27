@@ -72,7 +72,9 @@ function create_config( )
     "tools",
     "myid",
     "write",
-    "addkick"			
+    "addkick",
+    "del",
+    "ping"			
  },
     sudo_users = {270325030},
     admins = {},
