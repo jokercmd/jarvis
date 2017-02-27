@@ -72,7 +72,7 @@ function create_config( )
     "tools",
     "myid",
     "write",
-    "addkick.lua"			
+    "addkick"			
  },
     sudo_users = {270325030},
     admins = {},
